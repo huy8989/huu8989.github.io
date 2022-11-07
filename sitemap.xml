@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://huy8989.github.io/categories/</loc>
+    <loc>http://huy8989.github.io/post/first/</loc>
+    <lastmod>2022-11-07T09:02:12+08:00</lastmod>
   </url><url>
     <loc>http://huy8989.github.io/</loc>
+    <lastmod>2022-11-07T09:02:12+08:00</lastmod>
+  </url><url>
+    <loc>http://huy8989.github.io/post/</loc>
+    <lastmod>2022-11-07T09:02:12+08:00</lastmod>
+  </url><url>
+    <loc>http://huy8989.github.io/about/</loc>
+    <lastmod>2022-11-07T09:01:42+08:00</lastmod>
+  </url><url>
+    <loc>http://huy8989.github.io/categories/</loc>
   </url><url>
     <loc>http://huy8989.github.io/tags/</loc>
   </url>
